@@ -1,6 +1,7 @@
 body {
     font-family: 'ABeeZee', sans-serif;
     font-family: 'Domine', serif;
+    margin: 0px;
 }
 
 .focused-area {
@@ -123,4 +124,46 @@ span {
 #text {
     padding-top: 10%;
     padding-right: 50px;
+}
+
+.idea-timeline-area {
+    display: flex;
+    padding: 20px 30px;
+    background-image: url(pictures/shape-1.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 70%;
+    background-position-x: 90%;
+}
+
+.idea-timeline {
+    width: 50%;
+    margin: 20px 30px;
+}
+
+#idea-timeline-img {
+
+    width: 70%;
+
+}
+
+#project-png {}
+
+.footer {
+
+    background-color: black;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.text-h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: antiquewhite;
+}
+
+.footer-pera {
+    color: antiquewhite;
+    font-size: small;
 }
