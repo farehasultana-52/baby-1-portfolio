@@ -148,15 +148,8 @@ span {
 
 }
 
-#project-png {}
 
 
-.box-icon img {
-    height: 40px;
-    width: 40px;
-    display: flex;
-
-}
 
 .skills-area {
     display: flex;
@@ -172,6 +165,16 @@ span {
 
 }
 
+#h3-tag {
+    color: brown;
+    font-size: 20px;
+}
+
+#h1-color {
+    color: orangered;
+    font-size: 30px;
+}
+
 .box {
     background-color: rgb(247, 238, 238);
     width: 60%;
@@ -179,6 +182,7 @@ span {
     margin-bottom: 20px;
     padding: 10px 21px;
     border-radius: 5px;
+    box-shadow: 10px 10px 30px gray;
 
 
 }
@@ -191,6 +195,13 @@ span {
     font-size: small;
     margin: 0%;
     color: brown;
+
+}
+
+.box-icon img {
+    height: 40px;
+    width: 40px;
+    display: flex;
 
 }
 
